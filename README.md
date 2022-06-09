@@ -1,9 +1,10 @@
-<b>HTML-CSS LOGIN FORM</b><BR/>
+<b>HTML-CSS LOGIN FORM USING FLEX-GRID</b><BR/>
 Designed login page using SLACK.COM as a model <br/>
 features included<br/>
 *Mobile responsiveness<br/>
 *HTML<br/>
 *CSS<br/>
+*Flexbox,Grid<br/>
 Register<br/>
 ![Screenshot (21)](https://user-images.githubusercontent.com/36601848/172879380-beb5fb2d-4e1f-479b-b06b-7f5a9fb156af.png)
 <br/>
